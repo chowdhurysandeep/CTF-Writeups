@@ -34,6 +34,7 @@ This repository demonstrates hands-on experience in:
 
 ### 🔹 VulnHub / CTF Machines
 
-1. [MyExpense:1](pdf/MyExpense1_Report_By_Sandeep_Prasad_Chowdhury.pdf)
-2. [SickOS 1.1](pdf/SickOs_Report_By_Sandeep_Prasad_Chowdhury.pdf)
-3. [Vulnix](pdf/Vulnix_Report_By_Sandeep_Prasad_Chowdhury.pdf)
+1. [MyExpense:1](pdf/vulnhub/MyExpense1_Report_By_Sandeep_Prasad_Chowdhury.pdf)
+2. [SickOS 1.1](pdf/vulnhub/SickOs_Report_By_Sandeep_Prasad_Chowdhury.pdf)
+3. [Vulnix](pdf/vulnhub/Vulnix_Report_By_Sandeep_Prasad_Chowdhury.pdf)
+4. [Skytower](pdf/vulnhub/SkytowerCTF_By_Sandeep_Prasad_Chowdhury.pdf)
