@@ -38,6 +38,7 @@ This repository demonstrates hands-on experience in:
 2. [SickOS 1.1](pdf/vulnhub/SickOs_Report_By_Sandeep_Prasad_Chowdhury.pdf)
 3. [Vulnix](pdf/vulnhub/Vulnix_Report_By_Sandeep_Prasad_Chowdhury.pdf)
 4. [Skytower](pdf/vulnhub/SkytowerCTF_By_Sandeep_Prasad_Chowdhury.pdf)
+5. [Mercy](pdf/vulnhub/MercyCTF_Report_By_Sandeep_Prasad_Chowdhury.pdf)
 
 ### 🔹 TryHackMe / CTF Machines
 
