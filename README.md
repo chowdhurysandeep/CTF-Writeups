@@ -44,3 +44,37 @@ This repository demonstrates hands-on experience in:
 
 1. [Mr.Robot](pdf/tryhackme/Mr.Robot_Report_By_Sandeep_Prasad_Chowdhury.pdf)
 2. [Simple CTF](pdf/tryhackme/SimpleCTF_Report_By_Sandeep_Prasad_Chowdhury.pdf)
+
+### 📘 Note
+> Writeups for TryHackMe rooms and Vulnhub CTFs will be added progressively as PDF or structured notes.
+
+## 🛠 Tools & Techniques
+- Nmap, Netdiscover, Gobuster
+- SQLMap
+- Metasploit
+- Manual Web Exploitation
+- XSS, SQL Injection, IDOR
+- Session Hijacking
+- Linux Privilege Escalation
+
+## 📘 Methodology
+Each writeup generally follows this workflow:
+
+1. Reconnaissance & Enumeration  
+2. Vulnerability Identification  
+3. Exploitation  
+4. Privilege Escalation  
+5. Post-Exploitation  
+6. Reporting & Documentation  
+
+Aligned with:
+- OWASP Testing Guide
+- Real-world penetration testing practices
+
+---
+
+## ⚠️ Disclaimer
+All machines and applications documented in this repository are **intentionally vulnerable** and hosted on **legal training platforms** such as VulnHub and TryHackMe.
+
+This content is shared **strictly for educational purposes**.  
+No real-world systems were targeted or harmed.
