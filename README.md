@@ -1,80 +1,101 @@
-# CTF-Writeups
+# 📓 CTF-Writeups
 
-This repository contains **documented penetration testing writeups** for intentionally vulnerable labs from platforms such as **VulnHub** and **TryHackMe**.  
-All work is performed in **controlled lab environments** strictly for **educational and skill-development purposes**.
+> Documented penetration testing writeups for intentionally vulnerable machines from **TryHackMe** and **VulnHub**.
 
----
+![Writeups](https://img.shields.io/badge/Writeups-7-blue?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-TryHackMe%20%7C%20VulnHub-red?style=flat-square)
+![Category](https://img.shields.io/badge/Category-CTF%20%7C%20Pentesting-informational?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-## 👤 Author
-**Sandeep Prasad Chowdhury**  
-Aspiring Cybersecurity Professional  
-Focus: Web Application & System Penetration Testing
-
----
-
-## 🎯 Scope
-This repository demonstrates hands-on experience in:
-
-- Web Application Penetration Testing (WAPT)
-- Linux System Exploitation
-- Privilege Escalation
-- OWASP Top 10 Vulnerabilities
-- End-to-End Attack Chains
-- Professional Vulnerability Documentation (PDF)
+> Made by [Sandeep Chowdhury](https://github.com/chowdhurysandeep) | 🎓 Ethical Hacking Student  
+> 🔗 [LinkedIn](https://www.linkedin.com/in/sandeep-chowdhury-661a54397)
 
 ---
 
-## 🧪 Platforms Covered
-- **VulnHub**
-- **TryHackMe**
+## 📌 About
+
+This repository contains hands-on writeups for CTF machines and vulnerable labs. Each writeup follows a real-world penetration testing methodology — from initial recon to root — and is documented for learning and reference.
 
 ---
 
-## 📄 Writeups (PDF)
+## 🗂️ Writeups Index
 
-### 🔹 VulnHub / CTF Machines
+### 🔹 TryHackMe
 
-1. [MyExpense:1](pdf/vulnhub/MyExpense1_Report_By_Sandeep_Prasad_Chowdhury.pdf)
-2. [SickOS 1.1](pdf/vulnhub/SickOs_Report_By_Sandeep_Prasad_Chowdhury.pdf)
-3. [Vulnix](pdf/vulnhub/Vulnix_Report_By_Sandeep_Prasad_Chowdhury.pdf)
-4. [Skytower](pdf/vulnhub/SkytowerCTF_By_Sandeep_Prasad_Chowdhury.pdf)
-5. [Mercy](pdf/vulnhub/MercyCTF_Report_By_Sandeep_Prasad_Chowdhury.pdf)
+| # | Machine | Difficulty | Topics | Writeup |
+|---|---|---|---|---|
+| 1 | Mr. Robot | Medium | WordPress, Reverse Shell, PrivEsc | [📄 Read](TryHackMe/Mr.Robot.md) |
+| 2 | Simple CTF | Easy | FTP, SQLi, sudo PrivEsc | [📄 Read](TryHackMe/SimpleCTF.md) |
 
-### 🔹 TryHackMe / CTF Machines
+### 🔹 VulnHub
 
-1. [Mr.Robot](pdf/tryhackme/Mr.Robot_Report_By_Sandeep_Prasad_Chowdhury.pdf)
-2. [Simple CTF](pdf/tryhackme/SimpleCTF_Report_By_Sandeep_Prasad_Chowdhury.pdf)
+| # | Machine | Difficulty | Topics | Writeup |
+|---|---|---|---|---|
+| 1 | MyExpense:1 | Medium | XSS, IDOR, Session Hijacking | [📄 Read](VulnHub/MyExpense1.md) |
+| 2 | SickOS 1.1 | Medium | Shellshock, SMTP, PrivEsc | [📄 Read](VulnHub/SickOS.md) |
+| 3 | Vulnix | Medium | NFS, SSH, sudo PrivEsc | [📄 Read](VulnHub/Vulnix.md) |
+| 4 | Skytower | Medium | SQLi, SSH Tunneling, PrivEsc | [📄 Read](VulnHub/Skytower.md) |
+| 5 | Mercy | Medium | Tomcat, FTP, PrivEsc | [📄 Read](VulnHub/Mercy.md) |
 
-### 📘 Note
-> Writeups for TryHackMe rooms and Vulnhub CTFs will be added progressively as PDF or structured notes.
+---
 
-## 🛠 Tools & Techniques
-- Nmap, Netdiscover, Gobuster
-- SQLMap
-- Metasploit
-- Manual Web Exploitation
-- XSS, SQL Injection, IDOR
-- Session Hijacking
-- Linux Privilege Escalation
+## 🛠️ Tools Used
 
-## 📘 Methodology
-Each writeup generally follows this workflow:
+| Category | Tools |
+|---|---|
+| Recon | Nmap, Netdiscover, Gobuster |
+| Exploitation | Metasploit, SQLMap, Manual |
+| Web Attacks | XSS, SQLi, IDOR, Session Hijacking |
+| PrivEsc | LinPEAS, sudo abuse, SUID, NFS |
+| Shells | Netcat, Python, Bash reverse shells |
 
-1. Reconnaissance & Enumeration  
-2. Vulnerability Identification  
-3. Exploitation  
-4. Privilege Escalation  
-5. Post-Exploitation  
-6. Reporting & Documentation  
+---
 
-Aligned with:
-- OWASP Testing Guide
-- Real-world penetration testing practices
+## 📋 Methodology
+
+Every writeup follows this standard workflow:
+
+```
+1. Reconnaissance & Enumeration
+2. Vulnerability Identification
+3. Exploitation
+4. Privilege Escalation
+5. Post-Exploitation & Flags
+6. Summary & Lessons Learned
+```
+
+Aligned with **OWASP Testing Guide** and real-world penetration testing practices.
+
+---
+
+## 📁 Repository Structure
+
+```
+CTF-Writeups/
+├── README.md
+├── TryHackMe/
+│   ├── Mr.Robot.md
+│   └── SimpleCTF.md
+├── VulnHub/
+│   ├── MyExpense1.md
+│   ├── SickOS.md
+│   ├── Vulnix.md
+│   ├── Skytower.md
+│   └── Mercy.md
+└── pdf/                  ← original PDF reports
+    ├── tryhackme/
+    └── vulnhub/
+```
 
 ---
 
 ## ⚠️ Disclaimer
-All machines and applications documented in this repository are **intentionally vulnerable** and hosted on **legal training platforms** such as VulnHub and TryHackMe.
 
-This content is shared **strictly for educational purposes**.  
-No real-world systems were targeted or harmed.
+All machines documented here are **intentionally vulnerable** and hosted on legal training platforms (TryHackMe, VulnHub). This content is shared **strictly for educational purposes**. No real-world systems were targeted or harmed.
+
+---
+
+## 👤 Author
+
+**Sandeep Prasad Chowdhury**  
+🔗 [GitHub](https://github.com/chowdhurysandeep) · [LinkedIn](https://www.linkedin.com/in/sandeep-chowdhury-661a54397)
