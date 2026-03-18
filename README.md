@@ -7,7 +7,7 @@
 ![Category](https://img.shields.io/badge/Category-CTF%20%7C%20Pentesting-informational?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-> Made by [Sandeep Chowdhury](https://github.com/chowdhurysandeep) | 🎓 Ethical Hacking Student  
+> Made by [Sandeep Prasad Chowdhury](https://github.com/chowdhurysandeep) | 🎓 Ethical Hacking Student  
 > 🔗 [LinkedIn](https://www.linkedin.com/in/sandeep-chowdhury-661a54397)
 
 ---
