@@ -31,8 +31,8 @@ This repository contains hands-on writeups for CTF machines and vulnerable labs.
 
 | # | Machine | Difficulty | Topics | Writeup |
 |---|---|---|---|---|
-| 1 | MyExpense:1 | Medium | XSS, IDOR, Session Hijacking | [📄 Read](VulnHub/MyExpense1.md) |
-| 2 | SickOS 1.1 | Medium | Shellshock, SMTP, PrivEsc | [📄 Read](VulnHub/SickOS.md) |
+| 1 | MyExpense:1 | Medium | XSS, IDOR, Session Hijacking | [📄 Read](VulnHub/MyExpense:1.md) |
+| 2 | SickOS 1.1 | Medium | Shellshock, SMTP, PrivEsc | [📄 Read](VulnHub/SickOS1.1.md) |
 | 3 | Vulnix | Medium | NFS, SSH, sudo PrivEsc | [📄 Read](VulnHub/Vulnix.md) |
 | 4 | Skytower | Medium | SQLi, SSH Tunneling, PrivEsc | [📄 Read](VulnHub/Skytower.md) |
 | 5 | Mercy | Medium | Tomcat, FTP, PrivEsc | [📄 Read](VulnHub/Mercy.md) |
