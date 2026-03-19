@@ -76,15 +76,13 @@ CTF-Writeups/
 ├── TryHackMe/
 │   ├── Mr.Robot.md
 │   └── SimpleCTF.md
-├── VulnHub/
-│   ├── MyExpense1.md
-│   ├── SickOS.md
-│   ├── Vulnix.md
-│   ├── Skytower.md
-│   └── Mercy.md
-└── pdf/                  ← original PDF reports
-    ├── tryhackme/
-    └── vulnhub/
+└── VulnHub/
+    ├── MyExpense1.md
+    ├── SickOS.md
+    ├── Vulnix.md
+    ├── Skytower.md
+    └── Mercy.md
+
 ```
 
 ---
