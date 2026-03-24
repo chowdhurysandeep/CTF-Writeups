@@ -26,6 +26,7 @@ This repository contains hands-on writeups for CTF machines and vulnerable labs.
 |---|---|---|---|---|
 | 1 | Mr. Robot | Medium | WordPress, Reverse Shell, PrivEsc | [📄 Read](TryHackMe/Mr.Robot.md) |
 | 2 | Simple CTF | Easy | FTP, SQLi, sudo PrivEsc | [📄 Read](TryHackMe/SimpleCTF.md) |
+| 3 | Takeover | Easy | Subdomain Enumeration | [📄 Read](TryHackMe/Takeover.md) |
 
 ### 🔹 VulnHub
 
