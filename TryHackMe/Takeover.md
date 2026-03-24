@@ -102,7 +102,7 @@ Add the hidden subdomain to `/etc/hosts`:
 echo -n -e "<TARGET_IP>\tsecretHelpdesk934752.support.futurevera.thm" >> /etc/hosts
 ```
 
-Browse to `https://secrethelpdesk934752.support.futurevera.thm`.
+Browse to `http://secrethelpdesk934752.support.futurevera.thm`.
 
 The subdomain points to an **unclaimed AWS S3 bucket** — the browser redirects to:
 
