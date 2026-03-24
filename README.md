@@ -44,7 +44,7 @@ This repository contains hands-on writeups for CTF machines and vulnerable labs.
 
 | Category | Tools |
 |---|---|
-| Recon | Nmap, Netdiscover, Gobuster |
+| Recon | Nmap, Netdiscover, Gobuster, FFUF |
 | Exploitation | Metasploit, SQLMap, Manual |
 | Web Attacks | XSS, SQLi, IDOR, Session Hijacking |
 | PrivEsc | LinPEAS, sudo abuse, SUID, NFS |
@@ -76,7 +76,8 @@ CTF-Writeups/
 ├── README.md
 ├── TryHackMe/
 │   ├── Mr.Robot.md
-│   └── SimpleCTF.md
+│   ├── SimpleCTF.md
+│   └── Takeover.md
 └── VulnHub/
     ├── MyExpense1.md
     ├── SickOS.md
