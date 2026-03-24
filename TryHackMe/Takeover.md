@@ -24,7 +24,6 @@ The target runs virtual hosts — the domain must be added to `/etc/hosts` first
 
 ```bash
 echo -n -e "<TARGET_IP>\tfuturevera.thm" >> /etc/hosts
-echo -n -e "<TARGET_IP>\tsupport.futurevera.thm" >> /etc/hosts
 ```
 
 Browsing to `https://<TARGET_IP>` shows a self-signed certificate warning:
