@@ -98,4 +98,4 @@ All machines documented here are **intentionally vulnerable** and hosted on lega
 ## 👤 Author
 
 **Sandeep Prasad Chowdhury**  
-🔗 [GitHub](https://github.com/chowdhurysandeep) · [LinkedIn](https://www.linkedin.com/in/sandeep-chowdhury-661a54397)
+🔗 [GitHub](https://github.com/chowdhurysandeep) · [LinkedIn](www.linkedin.com/in/sandeep-chowdhury-b1a83b400)
