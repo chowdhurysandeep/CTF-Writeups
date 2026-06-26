@@ -2,7 +2,7 @@
 
 > Documented penetration testing writeups for intentionally vulnerable machines from **TryHackMe** and **VulnHub**.
 
-![Writeups](https://img.shields.io/badge/Writeups-7-blue?style=flat-square)
+![Writeups](https://img.shields.io/badge/Writeups-8-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe%20%7C%20VulnHub-red?style=flat-square)
 ![Category](https://img.shields.io/badge/Category-CTF%20%7C%20Pentesting-informational?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
